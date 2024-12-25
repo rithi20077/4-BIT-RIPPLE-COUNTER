@@ -1,4 +1,5 @@
 Ex.12 4-BIT-RIPPLE-COUNTER
+
 Date: 26.09.2024
 
 **AIM:**
